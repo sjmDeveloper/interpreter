@@ -11,7 +11,7 @@ I defined a `struct` to represent functions/commands and wrote helper functions 
 1. Clone the repository and navigate to the project folder:
 ```bash
 git clone https://github.com
-cd YOUR_REPO_NAME
+cd interpreter
 ```
 
 2. Compile the C code using `gcc`:
